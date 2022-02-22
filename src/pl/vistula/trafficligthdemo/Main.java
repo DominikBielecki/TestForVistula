@@ -5,5 +5,7 @@ public class Main {
 
         System.out.println("Hello Vistula");
 
+        System.out.println("Hello Vistula2");
+
     }
 }
